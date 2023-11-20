@@ -1,0 +1,7 @@
+E:\Mphasis\Day11\Assignment_QuickSort\Assignment_QuickSort\bin\Debug\Assignment_QuickSort.exe.config
+E:\Mphasis\Day11\Assignment_QuickSort\Assignment_QuickSort\bin\Debug\Assignment_QuickSort.exe
+E:\Mphasis\Day11\Assignment_QuickSort\Assignment_QuickSort\bin\Debug\Assignment_QuickSort.pdb
+E:\Mphasis\Day11\Assignment_QuickSort\Assignment_QuickSort\obj\Debug\Assignment_QuickSort.csproj.AssemblyReference.cache
+E:\Mphasis\Day11\Assignment_QuickSort\Assignment_QuickSort\obj\Debug\Assignment_QuickSort.csproj.CoreCompileInputs.cache
+E:\Mphasis\Day11\Assignment_QuickSort\Assignment_QuickSort\obj\Debug\Assignment_QuickSort.exe
+E:\Mphasis\Day11\Assignment_QuickSort\Assignment_QuickSort\obj\Debug\Assignment_QuickSort.pdb
